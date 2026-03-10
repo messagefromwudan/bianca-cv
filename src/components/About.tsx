@@ -32,7 +32,7 @@ export default function About() {
             <div className="card p-6 text-center">
               <div className="mb-6 flex justify-center">
                 <div className="w-20 h-20 bg-gradient-to-br from-[#3DDC97]/20 to-[#022B1C]/10 rounded-xl flex items-center justify-center shadow-lg border border-[#022B1C]/10 overflow-hidden">
-                  <Image src="/ceef-logo-1.png" alt="Exelion AI" width={72} height={72} className="object-contain transform scale-150" />
+                  <Image src="/exelion-logo.PNG" alt="Exelion AI" width={72} height={72} className="object-contain transform scale-150" />
                 </div>
               </div>
               <div className="font-bold text-sm text-[#022B1C]">Founder</div>
